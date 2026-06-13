@@ -30,7 +30,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "BOT-TOKEN"
+BOT_TOKEN = "8864244354:AAEoDywm_nQRY_48DMlUw-ukyYf7OFINAkU"
 EMOJI_FILE = "emojis.json"
 
 # Fallback emojis list for when no match found
